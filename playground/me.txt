@@ -1,0 +1,1 @@
+Name: Vidhi Singh\n Skills: HTML, CSS, JAVASCRIPT, NODE JS, EXPRESS JS, MONGO DB , REACT JS, TAILWIND CSS\n Email: vidhisingh7500@gmail.com
